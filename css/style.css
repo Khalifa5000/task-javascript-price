@@ -44,6 +44,11 @@ h2{
     font-weight: bold;
     font-size: large;
     cursor: pointer;
+    transition: 2s;
+}
+.list li:hover{
+    transform: scale(1.3);
+    color: rgb(62, 36, 177); 
 }
 img{
     margin-left: 40px;
