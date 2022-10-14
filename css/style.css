@@ -6,13 +6,11 @@
 body{
     background-color: rgb(194, 191, 189);
 }
-
 h1{
     text-align: center;
     margin-top: 10px;
     background-color: rgb(134, 133, 141);
 }
-
 .container{
     width: 80%;
     margin: auto;
@@ -69,7 +67,6 @@ img:hover{
     text-align: center;
     margin: 50px  auto;
     line-height: 1.5;
-
 }
 #product-price{
     transform: scale(0);
